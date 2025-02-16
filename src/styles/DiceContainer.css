@@ -1,0 +1,10 @@
+.dice-container {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr); /* Creates a 5x2 grid */
+    gap: 15px; /* Spacing between dice */
+    justify-content: center;
+    align-items: center;
+    max-width: 400px;
+    margin: 20px auto;
+  }
+  

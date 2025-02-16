@@ -1,0 +1,9 @@
+.game-board {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    min-height: 100vh; /* Make sure it takes up full screen height */
+  }
+  
